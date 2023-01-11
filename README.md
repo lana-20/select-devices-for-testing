@@ -39,8 +39,9 @@ Minimum SDK versions for Android 12 and below:
 
 <img width="763" alt="Screenshot 2023-01-11 at 1 28 41 PM" src="https://user-images.githubusercontent.com/70295997/211921588-01ac7a91-1fd1-46fa-bac7-ceaa174caab8.png">
 
-Click on __Help me choose__
+Click on __Help me choose__ under a particular minSDK version to display additional distribution-related info:
 
+<img width="700" alt="Screenshot 2023-01-11 at 1 45 47 PM" src="https://user-images.githubusercontent.com/70295997/211924558-12935186-90f9-49c8-89d2-586b629beae1.png">
 
 
 
