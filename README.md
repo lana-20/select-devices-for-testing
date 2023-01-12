@@ -4,6 +4,7 @@ I need to pick 4 devices for testing, with their respective hardware and softwar
 
 When I start working on a new project, I need to know what I’m testing on. I’m a QA who has to know which devices to order. I’m the one who can tell the person in charge of the expense account in my company which devices my team needs. How to approach the decision of selecting devices for testing?
 
+For this question, there is no right or wrong answer. It’s not accurate to say that a particular device, iPhone 7 for example, should not be tested on because I haven’t seen many people using iPhone 7s around lately. I split my time between San Francisco and Seattle, U.S. My subjective personal environment is not representative of the regional or global market, where the app may be distributed. The answer depends on where the app is used. I stay on top of things and keep track of the statistics data, in order to keep updating the device set consistently and timely.
 
 When selecting devices and OS versions for testing, I ask myself the following questions:
 - What are the most used mobile OSs?
@@ -14,6 +15,9 @@ When selecting devices and OS versions for testing, I ask myself the following q
 ----
 
 ## [What are the most used mobile OSs?](https://github.com/lana-20/mobile-os-market-share-2022/blob/main/README.md)
+
+I research the mobile OS market shares to find out which devices to pick/order and/or which to retire.
+
 Mobile market [today](https://lana-20.github.io/mobile-os-market-share-2022/) looks much different from [10 years ago](https://lana-20.github.io/mobile-os-market-share-2012/). The market is dominated by two major vendors - Google (Android OS) and Apple (iOS).
 
 ## What are the most common screen sizes?
@@ -35,7 +39,7 @@ I can find platform version information in Android Studio's __Create New Project
 
 <img width="700" alt="Screenshot 2023-01-11 at 1 17 47 PM" src="https://user-images.githubusercontent.com/70295997/211919774-27b870f4-b945-4e7b-acbd-fc19f37ae06d.png">
 
-The Minimum SDK version determines the lowest level of Android that my app will run on. I typically want to target as many users as possible, so I'd ideally support everyone -- with a minSDK version 1. However, that has some disadvantages, such as lack of features, and very few people use such old devices. My choice of minSDK is a tradeoff between the ditribution of users I want to target and the features that my app will need.
+The Minimum SDK version determines the lowest level of Android that my app will run on. I typically want to target as many users as possible, so I'd ideally support everyone -- with a minSDK version 1. However, that has some disadvantages, such as lack of features, and very few people use such old devices. My choice of minSDK is a tradeoff between the distribution of users I want to target and the features that my app will need.
 
 Click on each Android Version/API level for more information.
 
