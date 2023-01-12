@@ -1,6 +1,9 @@
 # Selecting Devices and OS Versions for Testing
 
-I need to pick 4 devices for testing, with their respective hardware and software versions. Which iOS and Android devices do I choose?
+I need to pick 4 devices for testing, with their respective hardware and software versions - model / OS version. Which iOS and Android devices do I choose?
+
+When I start working on a new project, I need to know what I’m testing on. I’m a QA who has to know which devices to order. I’m the one who can tell the person in charge of the expense account in my company which devices my team needs. How to approach the decision of selecting devices for testing?
+
 
 When selecting devices and OS versions for testing, I ask myself the following questions:
 - What are the most used mobile OSs?
