@@ -10,14 +10,19 @@ When selecting devices and OS versions for testing, I ask myself the following q
 
 ----
 
-## What are the most used mobile OSs?
+## [What are the most used mobile OSs?](https://github.com/lana-20/mobile-os-market-share-2022/blob/main/README.md)
 Mobile market [today](https://lana-20.github.io/mobile-os-market-share-2022/) looks much different from [10 years ago](https://lana-20.github.io/mobile-os-market-share-2012/). The market is dominated by two major vendors - Google (Android OS) and Apple (iOS).
 
 ## What are the most common screen sizes?
 
 Google provides material.io [device metrics](https://material.io/blog/device-metrics), which includes iOS devices. It's a source of screen sizes, resolutions and other dimensions.
 
-[Android Distribution Dashboard](https://developer.android.com/about/dashboards) provides info on screen sizes and densities. It also yields instructions on how to look up the Android version distribution info in Android Studio.
+[Android Distribution Dashboard](https://developer.android.com/about/dashboards) provides info on screen sizes and densities. 
+
+<img width="700" alt="Screenshot 2023-01-11 at 7 47 32 PM" src="https://user-images.githubusercontent.com/70295997/211971280-4567df34-6a62-472f-b9b0-738865ad8c3d.png">
+
+
+The Dashboard also yields instructions on how to look up the Android version distribution info in Android Studio.
 
 ## What are the most used mobile OS versions?
 
