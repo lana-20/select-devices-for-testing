@@ -19,7 +19,7 @@ When selecting devices and OS versions for testing, I ask myself the following q
 4. OS Popularity and Adoption
 5. Mimicking the User’s Environment
 
-I can also track the [__Top 10 Mobile Devices__](https://www.perfecto.io/test-coverage-guide) regionally:
+When there's no handy research available, I can track the [__Top 10 Mobile Devices__](https://www.perfecto.io/test-coverage-guide) by region and country. For example:
 
 <img width="800" alt="Screenshot 2023-01-14 at 1 40 38 AM" src="https://user-images.githubusercontent.com/70295997/212465831-e0ef155b-aa25-46c7-b4a5-ed33632634e6.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/70295997/212465861-0307e2f8-cc88-4c54-aae3-554f9532ee94.png">
