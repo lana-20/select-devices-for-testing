@@ -12,6 +12,20 @@ When selecting devices and OS versions for testing, I ask myself the following q
 - What are the most common screen sizes?
 - Who are the leading manufacturers?
 
+[Strategic Test Coverage](https://www.perfecto.io/blog/strategic-test-coverage-key-considerations) includes:
+1. Prioritizing Devices and Browsers for Testing
+2. Device Market Share and Demographics
+3. Most Popular Devices and Browsers
+4. OS Popularity and Adoption
+5. Mimicking the User’s Environment
+
+I can also track the [__Top 10 Mobile Devices__](https://www.perfecto.io/test-coverage-guide) regionally:
+
+<img width="800" alt="Screenshot 2023-01-14 at 1 40 38 AM" src="https://user-images.githubusercontent.com/70295997/212465831-e0ef155b-aa25-46c7-b4a5-ed33632634e6.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/70295997/212465861-0307e2f8-cc88-4c54-aae3-554f9532ee94.png">
+<img width="800" alt="Screenshot 2023-01-14 at 1 42 07 AM" src="https://user-images.githubusercontent.com/70295997/212465888-db57f7d1-08da-474a-befd-01bb9a70f690.png">
+
+
 ----
 
 ## [What are the most used mobile OSs?](https://github.com/lana-20/mobile-os-market-share-2022/blob/main/README.md)
