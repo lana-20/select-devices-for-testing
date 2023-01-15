@@ -19,7 +19,7 @@ When selecting devices and OS versions for testing, I ask myself the following q
 2. Device Market Share and Demographics
 3. Most Popular Devices and Browsers
 4. OS Popularity and Adoption
-5. Mimicking the User’s Environment
+5. [Mimicking the User’s Environment](https://github.com/lana-20/emulator-simulator/blob/main/README.md)
 
 When no [handy research](https://github.com/lana-20/mobile-os-market-share-2022) is available, I track the __Top 10 Mobile Devices__ via the [Test Coverage Guide](https://www.perfecto.io/test-coverage-guide) by region and country. For example:
 
