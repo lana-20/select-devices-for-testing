@@ -87,4 +87,7 @@ Furthermore, this [source](https://mixpanel.com/trends/) provides iOS devices ma
 [iOS Beta](https://beta.apple.com/sp/betaprogram/) is the official link to sign up a device for running a beta version of iOS
 .
 
+----
+
+[As Mobile Screen Size Increases... So Does Activity](https://www.lukew.com/ff/entry.asp?1956)
 
