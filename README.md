@@ -49,6 +49,12 @@ The Dashboard also yields instructions on how to look up the Android version dis
 
 ## What are the most used mobile OS versions?
 
+As a Software Quality Engineer, I stay abreast of the various OS versions. When conducting Mobile testing, as compared to Web, I handle Compatibility/Interoperability Testing not only among platforms/OSs but also among specific versions of these platforms/OSs (aka Cross-Version Testing). This experience/exposure is essential when addressing issues such:
+- [Downgrading from iOS 16.3 to 16.2 while keeping the data iPhone 14](https://github.com/lana-20/select-devices-for-testing/blob/main/Screenshot%202023-01-17%20at%201.52.12%20PM.png). ➦ iPhone 14 series never had iOS 15.
+- Verifying if iOS 16 can be installed on iPhone 7. ➦ iPhone 7 doesn't support iOS 15.
+
+
+
 ### Android
 
 I can find platform version information in Android Studio's __Create New Project wizard__:
