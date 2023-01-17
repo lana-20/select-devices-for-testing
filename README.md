@@ -1,20 +1,22 @@
 # Selecting Devices and OS Versions for Testing
 
-I need to pick 4 devices for testing, with their respective hardware and software versions - model / OS version. Which iOS and Android devices do I choose?
+_I need to __pick 4 devices__ for testing, with their respective __hardware and software versions - model / OS version__. Which iOS and Android devices do I choose?_
 
 When I start working on a new project, I need to know what I’m testing on. I’m a QA who has to know which devices to order. I’m the one who can tell the person in charge of the expense account in my company which devices my team needs. How to approach the decision of selecting devices for testing?
 
-For this question, there is no right or wrong answer. It’s not accurate to say that a particular device, iPhone 7 for example, should not be tested on because I haven’t seen many people using iPhone 7s around lately. I split my time between San Francisco and Seattle, U.S. My subjective personal environment is not representative of the regional or global market, where the app may be distributed. While only a few percents of the target demographic may use iPhone 7, this small market segment may be essential for your particular company software. The answer depends on where the app is used. In the volatile and fast-paced tech industry, I always stay on top of things and keep track of the statistics data, in order to keep updating the device set consistently and timely.
+For this question, there is no right or wrong answer. It’s not accurate to say that a particular device, iPhone 7 for example, should not be tested on because I haven’t seen many people using iPhone 7s around lately. I split my time between San Francisco and Seattle, U.S. My subjective personal environment is not representative of the regional or global market, where the app may be distributed. While only a few percents of the target demographic use iPhone 7, this small market segment may be essential to your particular company software. 
+
+The answer depends on usage patterns of the app. In the volatile and fast-paced tech industry, I always stay on top of things and keep track of the statistics data, in order to keep updating the device set consistently and timely.
 
 When selecting devices and OS versions for testing, I ask myself the following questions:
-- What are the most used mobile OSs?
-- What are the most used mobile OS versions?
-- What are the most common screen sizes?
-- Who are the leading manufacturers?
+- _What are the most used mobile __OSs__?_
+- _What are the most used mobile __OS versions__?_
+- _What are the most common __screen sizes__?_
+- _Who are the leading __manufacturers__?_
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/70295997/212569492-e38768cb-a9a9-4712-a123-852ddcaac930.png">
 
-[Strategic Test Coverage](https://github.com/lana-20/test-coverage) includes:
+Furthermore, I care for providing adequate/strategic [Test Coverage](https://github.com/lana-20/test-coverage). My strategy typically includes:
 1. Prioritizing Devices and Browsers for Testing
 2. Device Market Share and Demographics
 3. Most Popular Devices and Browsers
@@ -32,7 +34,7 @@ When no [handy research](https://github.com/lana-20/mobile-os-market-share-2022)
 
 I research the mobile OS market shares to find out which devices to pick/order and/or which to retire.
 
-Mobile market [today](https://lana-20.github.io/mobile-os-market-share-2022/) looks much different from [10 years ago](https://lana-20.github.io/mobile-os-market-share-2012/). The market is dominated by two major vendors - Google (Android OS) and Apple (iOS).
+Mobile market [today](https://lana-20.github.io/mobile-os-market-share-2022/) looks much different from [10 years ago](https://lana-20.github.io/mobile-os-market-share-2012/). The market is dominated by two major vendors - the Big Two - Google (Android OS) and Apple (iOS).
 
 ## What are the most common screen sizes?
 
@@ -40,7 +42,7 @@ Google provides material.io [device metrics](https://material.io/blog/device-met
 
 [Android Distribution Dashboard](https://developer.android.com/about/dashboards) provides info on screen sizes and densities. 
 
-<img width="700" alt="Screenshot 2023-01-11 at 7 47 32 PM" src="https://user-images.githubusercontent.com/70295997/211971280-4567df34-6a62-472f-b9b0-738865ad8c3d.png">
+<img width="600" alt="Screenshot 2023-01-11 at 7 47 32 PM" src="https://user-images.githubusercontent.com/70295997/211971280-4567df34-6a62-472f-b9b0-738865ad8c3d.png">
 
 
 The Dashboard also yields instructions on how to look up the Android version distribution info in Android Studio.
