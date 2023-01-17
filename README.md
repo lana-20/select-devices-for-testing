@@ -4,7 +4,7 @@ I need to pick 4 devices for testing, with their respective hardware and softwar
 
 When I start working on a new project, I need to know what I’m testing on. I’m a QA who has to know which devices to order. I’m the one who can tell the person in charge of the expense account in my company which devices my team needs. How to approach the decision of selecting devices for testing?
 
-For this question, there is no right or wrong answer. It’s not accurate to say that a particular device, iPhone 7 for example, should not be tested on because I haven’t seen many people using iPhone 7s around lately. I split my time between San Francisco and Seattle, U.S. My subjective personal environment is not representative of the regional or global market, where the app may be distributed. The answer depends on where the app is used. I stay on top of things and keep track of the statistics data, in order to keep updating the device set consistently and timely.
+For this question, there is no right or wrong answer. It’s not accurate to say that a particular device, iPhone 7 for example, should not be tested on because I haven’t seen many people using iPhone 7s around lately. I split my time between San Francisco and Seattle, U.S. My subjective personal environment is not representative of the regional or global market, where the app may be distributed. While only a few percents of the target demographic may use iPhone 7, this small market segment may be essential for your particular company software. The answer depends on where the app is used. In the volatile and fast-paced tech industry, I always stay on top of things and keep track of the statistics data, in order to keep updating the device set consistently and timely.
 
 When selecting devices and OS versions for testing, I ask myself the following questions:
 - What are the most used mobile OSs?
@@ -12,20 +12,18 @@ When selecting devices and OS versions for testing, I ask myself the following q
 - What are the most common screen sizes?
 - Who are the leading manufacturers?
 
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/70295997/212569492-e38768cb-a9a9-4712-a123-852ddcaac930.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/70295997/212569492-e38768cb-a9a9-4712-a123-852ddcaac930.png">
 
-[Strategic Test Coverage](https://www.perfecto.io/blog/strategic-test-coverage-key-considerations) includes:
+[Strategic Test Coverage](https://github.com/lana-20/test-coverage) includes:
 1. Prioritizing Devices and Browsers for Testing
 2. Device Market Share and Demographics
 3. Most Popular Devices and Browsers
 4. OS Popularity and Adoption
 5. [Mimicking the User’s Environment](https://github.com/lana-20/emulator-simulator/blob/main/README.md)
 
-When no [handy research](https://github.com/lana-20/mobile-os-market-share-2022) is available, I track the __Top 10 Mobile Devices__ via the [Test Coverage Guide](https://www.perfecto.io/test-coverage-guide) by region and country. For example:
+When no [handy research](https://github.com/lana-20/mobile-os-market-share-2022) is available, it's rather easy to track the __device and OS combinations__ via the [Test Coverage Guide](https://www.perfecto.io/test-coverage-guide) across 13 different countries.
 
-<img width="800" alt="Screenshot 2023-01-14 at 1 40 38 AM" src="https://user-images.githubusercontent.com/70295997/212465831-e0ef155b-aa25-46c7-b4a5-ed33632634e6.png">
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/70295997/212465861-0307e2f8-cc88-4c54-aae3-554f9532ee94.png">
-<img width="800" alt="Screenshot 2023-01-14 at 1 42 07 AM" src="https://user-images.githubusercontent.com/70295997/212465888-db57f7d1-08da-474a-befd-01bb9a70f690.png">
+<img width="300" alt="Screenshot 2023-01-14 at 1 40 38 AM" src="https://user-images.githubusercontent.com/70295997/212465831-e0ef155b-aa25-46c7-b4a5-ed33632634e6.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/70295997/212465861-0307e2f8-cc88-4c54-aae3-554f9532ee94.png"><img width="300" alt="Screenshot 2023-01-14 at 1 42 07 AM" src="https://user-images.githubusercontent.com/70295997/212465888-db57f7d1-08da-474a-befd-01bb9a70f690.png">
 
 
 ----
