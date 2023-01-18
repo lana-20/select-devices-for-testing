@@ -97,8 +97,11 @@ Furthermore, this [source](https://mixpanel.com/trends/) provides iOS devices ma
 <img width="700" alt="Screenshot 2023-01-11 at 8 20 38 PM" src="https://user-images.githubusercontent.com/70295997/211975240-eafaa2bb-4d46-4cdb-a0c6-d7888a6eb08b.png">
 <img width="700" alt="Screenshot 2023-01-11 at 8 22 03 PM" src="https://user-images.githubusercontent.com/70295997/211975374-b76a20b6-3cd6-4dc6-8dbb-21d6d304fcdb.png">
 
-[iOS Beta](https://beta.apple.com/sp/betaprogram/) is the official link to sign up a device for running a beta version of iOS
-.
+[iOS Beta](https://beta.apple.com/sp/betaprogram/) is the official link to sign up a device for running a beta version of iOS.
+
+## Who are the leading manufacturers?
+
+<img width="1177" alt="Screenshot 2023-01-17 at 4 40 04 PM" src="https://user-images.githubusercontent.com/70295997/213052412-3e499e11-9f04-4f48-8eb7-126dff620395.png">
 
 ----
 
