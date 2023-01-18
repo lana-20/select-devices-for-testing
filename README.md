@@ -51,6 +51,7 @@ The Dashboard also yields instructions on how to look up the Android version dis
 As a Software Quality Engineer, I stay abreast of the various OS versions by following the tech news/blogs/conferences and communicating with IT counterparts. When conducting Mobile testing, as compared to Web, I handle Compatibility/Interoperability Testing not only among platforms/OSs but also among specific versions of these platforms/OSs (aka Cross-Version Testing). This experience/exposure is essential when addressing issues such as:
 - [Downgrading from iOS 16.3 to 16.2 while keeping the data on iPhone 14](https://github.com/lana-20/select-devices-for-testing/blob/main/Screenshot%202023-01-17%20at%201.52.12%20PM.png) ➦ iPhone 14 series never had iOS 15.
 - [Verifying if iOS 16 can be installed on iPhone 7](https://github.com/lana-20/select-devices-for-testing/blob/main/Screenshot%202023-01-17%20at%204.47.01%20PM.png) ➦ iPhone 7 series doesn't support iOS 16.
+- [Checking which Android OS versions support Bluetooth](https://github.com/lana-20/select-devices-for-testing/blob/main/Screenshot%202023-01-17%20at%208.56.06%20PM.png) ➦ Android Jelly Bean v4.3 and above (minSDK/API Level 18+) supports Bluetooth.
 
 ### Android
 
