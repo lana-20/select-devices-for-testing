@@ -86,14 +86,9 @@ Click on __Help me choose__ under a particular minSDK version to display additio
 
 ### iOS
 
-Apple provides [iOS and iPadOS versions market shares](https://developer.apple.com/support/app-store/).
+Apple provides [iOS and iPadOS versions market shares](https://developer.apple.com/support/app-store/). Furthermore, this [source](https://mixpanel.com/trends/) provides iOS devices market share.
+<img width="1267" alt="Screenshot 2023-01-17 at 6 40 55 PM" src="https://user-images.githubusercontent.com/70295997/213068791-03c82b2a-d16f-4d65-897f-ec572bf46f9d.png">
 
-<img width="384" alt="Screenshot 2023-01-11 at 8 16 05 PM" src="https://user-images.githubusercontent.com/70295997/211974585-6c1d0444-6d9f-4340-8e78-9ac8770ad702.png">
-
-Furthermore, this [source](https://mixpanel.com/trends/) provides iOS devices market share:
-
-<img width="700" alt="Screenshot 2023-01-11 at 8 20 38 PM" src="https://user-images.githubusercontent.com/70295997/211975240-eafaa2bb-4d46-4cdb-a0c6-d7888a6eb08b.png">
-<img width="700" alt="Screenshot 2023-01-11 at 8 22 03 PM" src="https://user-images.githubusercontent.com/70295997/211975374-b76a20b6-3cd6-4dc6-8dbb-21d6d304fcdb.png">
 
 [iOS Beta](https://beta.apple.com/sp/betaprogram/) is the official link to sign up a device for running a beta version of iOS.
 
