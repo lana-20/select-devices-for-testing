@@ -1,4 +1,5 @@
 # Selecting Devices and OS Versions for Testing
+<img width="350" src="https://user-images.githubusercontent.com/70295997/213065698-c72863c5-285c-4681-870b-62d8350501ca.png">
 
 _I need to __pick 4 devices__ for testing, with their respective __hardware and software versions - model / OS version__. Which iOS and Android devices do I choose?_
 
@@ -27,11 +28,8 @@ When no [handy research](https://github.com/lana-20/mobile-os-market-share-2022)
 
 <img width="300" alt="Screenshot 2023-01-14 at 1 40 38 AM" src="https://user-images.githubusercontent.com/70295997/212465831-e0ef155b-aa25-46c7-b4a5-ed33632634e6.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/70295997/212465861-0307e2f8-cc88-4c54-aae3-554f9532ee94.png"><img width="300" alt="Screenshot 2023-01-14 at 1 42 07 AM" src="https://user-images.githubusercontent.com/70295997/212465888-db57f7d1-08da-474a-befd-01bb9a70f690.png">
 
-<img width="300" src="https://user-images.githubusercontent.com/70295997/213036393-965f567d-2f85-46f3-97af-a9456e812d29.png"><img width="300" src="https://user-images.githubusercontent.com/70295997/213036675-cf0123a3-960c-4d38-9a30-96c3e73642b2.png"><img width="300" src="https://user-images.githubusercontent.com/70295997/213036748-82a7e629-efd5-4fc1-8d80-893c9ee8b8d1.png">
-
-
-
-
+<img width="300" src="https://user-images.githubusercontent.com/70295997/213036393-965f567d-2f85-46f3-97af-a9456e812d29.png"><img width="300" src="https://user-images.githubusercontent.com/70295997/213036675-cf0123a3-960c-4d38-9a30-96c3e73642b2.png"><img width="300" src="https://user-images.githubusercontent.com/70295997/213036748-82a7e629-efd5-4fc1-8d80-893c9ee8b8d1.png"><img width="300" src="https://user-images.githubusercontent.com/70295997/213066353-f8967b64-a5e4-4499-b811-3a058b5e0b98.png">
+<img width="300" src="https://user-images.githubusercontent.com/70295997/213066505-c71b2d2f-82d2-47db-89b6-3314ec3a42e3.png"><img width="300" src="https://user-images.githubusercontent.com/70295997/213066217-0225aafd-a23c-444f-a602-7d493388e99f.png">
 
 ----
 
