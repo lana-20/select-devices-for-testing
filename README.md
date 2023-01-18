@@ -44,16 +44,13 @@ Google provides material.io [device metrics](https://material.io/blog/device-met
 
 <img width="600" alt="Screenshot 2023-01-11 at 7 47 32 PM" src="https://user-images.githubusercontent.com/70295997/211971280-4567df34-6a62-472f-b9b0-738865ad8c3d.png">
 
-
 The Dashboard also yields instructions on how to look up the Android version distribution info in Android Studio.
 
 ## What are the most used mobile OS versions?
 
-As a Software Quality Engineer, I stay abreast of the various OS versions. When conducting Mobile testing, as compared to Web, I handle Compatibility/Interoperability Testing not only among platforms/OSs but also among specific versions of these platforms/OSs (aka Cross-Version Testing). This experience/exposure is essential when addressing issues such:
-- [Downgrading from iOS 16.3 to 16.2 while keeping the data iPhone 14](https://github.com/lana-20/select-devices-for-testing/blob/main/Screenshot%202023-01-17%20at%201.52.12%20PM.png). ➦ iPhone 14 series never had iOS 15.
-- Verifying if iOS 16 can be installed on iPhone 7. ➦ iPhone 7 doesn't support iOS 15.
-
-
+As a Software Quality Engineer, I stay abreast of the various OS versions by following the tech news/blogs/conferences and communicating with IT counterparts. When conducting Mobile testing, as compared to Web, I handle Compatibility/Interoperability Testing not only among platforms/OSs but also among specific versions of these platforms/OSs (aka Cross-Version Testing). This experience/exposure is essential when addressing issues such as:
+- [Downgrading from iOS 16.3 to 16.2 while keeping the data iPhone 14](https://github.com/lana-20/select-devices-for-testing/blob/main/Screenshot%202023-01-17%20at%201.52.12%20PM.png) ➦ iPhone 14 series never had iOS 15.
+- [Verifying if iOS 16 can be installed on iPhone 7](https://github.com/lana-20/select-devices-for-testing/blob/main/Screenshot%202023-01-17%20at%204.47.01%20PM.png) ➦ iPhone 7 doesn't support iOS 16.
 
 ### Android
 
@@ -84,8 +81,8 @@ Click on __Help me choose__ under a particular minSDK version to display additio
 ### iOS
 
 Apple provides [iOS and iPadOS versions market shares](https://developer.apple.com/support/app-store/). Furthermore, this [source](https://mixpanel.com/trends/) provides iOS devices market share.
-<img width="1267" alt="Screenshot 2023-01-17 at 6 40 55 PM" src="https://user-images.githubusercontent.com/70295997/213068791-03c82b2a-d16f-4d65-897f-ec572bf46f9d.png">
 
+<img width="1267" alt="Screenshot 2023-01-17 at 6 40 55 PM" src="https://user-images.githubusercontent.com/70295997/213068791-03c82b2a-d16f-4d65-897f-ec572bf46f9d.png">
 
 [iOS Beta](https://beta.apple.com/sp/betaprogram/) is the official link to sign up a device for running a beta version of iOS.
 
