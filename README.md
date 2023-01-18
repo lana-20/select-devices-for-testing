@@ -49,28 +49,20 @@ The Dashboard also yields instructions on how to look up the Android version dis
 ## What are the most used mobile OS versions?
 
 As a Software Quality Engineer, I stay abreast of the various OS versions by following the tech news/blogs/conferences and communicating with IT counterparts. When conducting Mobile testing, as compared to Web, I handle Compatibility/Interoperability Testing not only among platforms/OSs but also among specific versions of these platforms/OSs (aka Cross-Version Testing). This experience/exposure is essential when addressing issues such as:
-- [Downgrading from iOS 16.3 to 16.2 while keeping the data iPhone 14](https://github.com/lana-20/select-devices-for-testing/blob/main/Screenshot%202023-01-17%20at%201.52.12%20PM.png) ➦ iPhone 14 series never had iOS 15.
-- [Verifying if iOS 16 can be installed on iPhone 7](https://github.com/lana-20/select-devices-for-testing/blob/main/Screenshot%202023-01-17%20at%204.47.01%20PM.png) ➦ iPhone 7 doesn't support iOS 16.
+- [Downgrading from iOS 16.3 to 16.2 while keeping the data on iPhone 14](https://github.com/lana-20/select-devices-for-testing/blob/main/Screenshot%202023-01-17%20at%201.52.12%20PM.png) ➦ iPhone 14 series never had iOS 15.
+- [Verifying if iOS 16 can be installed on iPhone 7](https://github.com/lana-20/select-devices-for-testing/blob/main/Screenshot%202023-01-17%20at%204.47.01%20PM.png) ➦ iPhone 7 series doesn't support iOS 16.
 
 ### Android
 
 I can find platform version information in Android Studio's __Create New Project wizard__:
 
-<img width="700" alt="Screenshot 2023-01-11 at 1 17 47 PM" src="https://user-images.githubusercontent.com/70295997/211919774-27b870f4-b945-4e7b-acbd-fc19f37ae06d.png">
+<img width="600" alt="Screenshot 2023-01-11 at 1 17 47 PM" src="https://user-images.githubusercontent.com/70295997/211919774-27b870f4-b945-4e7b-acbd-fc19f37ae06d.png">
 
 The Minimum SDK version determines the lowest level of Android that my app will run on. I typically want to target as many users as possible, so I'd ideally support everyone -- with a minSDK version 1. However, that has some disadvantages, such as lack of features, and very few people use such old devices. My choice of minSDK is a tradeoff between the distribution of users I want to target and the features that my app will need.
 
 Click on each Android Version/API level for more information.
 
-Minimum SDK versions for Android 13 (T), aka Tiramisu:
-<img width="764" alt="Screenshot 2023-01-11 at 1 19 28 PM" src="https://user-images.githubusercontent.com/70295997/211919974-dea5e6bf-5409-4bce-b659-79c73309ff88.png"><img width="762" alt="Screenshot 2023-01-11 at 1 20 13 PM" src="https://user-images.githubusercontent.com/70295997/211920108-ce43f88f-9596-49e9-aac4-41641d0a8058.png">
-
-Minimum SDK versions for Android 12 and below:
-<img width="764" alt="Screenshot 2023-01-11 at 1 20 39 PM" src="https://user-images.githubusercontent.com/70295997/211920162-e2a761be-71ea-4b3d-ae74-e8867f615f1d.png"><img width="765" alt="Screenshot 2023-01-11 at 1 22 19 PM" src="https://user-images.githubusercontent.com/70295997/211920415-2d1dc603-ec39-4ba3-b7c9-fce6808d5652.png"><img width="764" alt="Screenshot 2023-01-11 at 1 23 57 PM" src="https://user-images.githubusercontent.com/70295997/211920733-c8091d97-9717-42e9-815a-042de178ed3f.png"><img width="764" alt="Screenshot 2023-01-11 at 1 25 03 PM" src="https://user-images.githubusercontent.com/70295997/211920941-673c82ad-860f-45c5-819e-c821db503ea6.png">
-
-...
-
-<img width="763" alt="Screenshot 2023-01-11 at 1 28 41 PM" src="https://user-images.githubusercontent.com/70295997/211921588-01ac7a91-1fd1-46fa-bac7-ceaa174caab8.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/70295997/213084570-7215edf1-96aa-4656-8f5a-11e1595a2b14.png">
 
 Click on __Help me choose__ under a particular minSDK version to display additional distribution-related info:
 
@@ -82,19 +74,17 @@ Click on __Help me choose__ under a particular minSDK version to display additio
 
 Apple provides [iOS and iPadOS versions market shares](https://developer.apple.com/support/app-store/). Furthermore, this [source](https://mixpanel.com/trends/) provides iOS devices market share.
 
-<img width="1267" alt="Screenshot 2023-01-17 at 6 40 55 PM" src="https://user-images.githubusercontent.com/70295997/213068791-03c82b2a-d16f-4d65-897f-ec572bf46f9d.png">
+<img width="1000" alt="Screenshot 2023-01-17 at 6 40 55 PM" src="https://user-images.githubusercontent.com/70295997/213068791-03c82b2a-d16f-4d65-897f-ec572bf46f9d.png">
 
 [iOS Beta](https://beta.apple.com/sp/betaprogram/) is the official link to sign up a device for running a beta version of iOS.
 
 ## Who are the leading manufacturers?
 
-<img width="1177" alt="Screenshot 2023-01-17 at 4 40 04 PM" src="https://user-images.githubusercontent.com/70295997/213052412-3e499e11-9f04-4f48-8eb7-126dff620395.png">
+<img width="1000" alt="Screenshot 2023-01-17 at 4 40 04 PM" src="https://user-images.githubusercontent.com/70295997/213052412-3e499e11-9f04-4f48-8eb7-126dff620395.png">
 
 <img width="600" src="https://user-images.githubusercontent.com/70295997/213068053-d40d6427-ec3b-4d8a-a00e-cbc3b67c3c0c.png">
 
-
-
 ----
 
-[As Mobile Screen Size Increases... So Does Activity](https://www.lukew.com/ff/entry.asp?1956)
+Extra 📚: [As Mobile Screen Size Increases... So Does Activity](https://www.lukew.com/ff/entry.asp?1956)
 
