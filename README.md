@@ -101,6 +101,10 @@ Furthermore, this [source](https://mixpanel.com/trends/) provides iOS devices ma
 
 <img width="1177" alt="Screenshot 2023-01-17 at 4 40 04 PM" src="https://user-images.githubusercontent.com/70295997/213052412-3e499e11-9f04-4f48-8eb7-126dff620395.png">
 
+<img width="600" src="https://user-images.githubusercontent.com/70295997/213068053-d40d6427-ec3b-4d8a-a00e-cbc3b67c3c0c.png">
+
+
+
 ----
 
 [As Mobile Screen Size Increases... So Does Activity](https://www.lukew.com/ff/entry.asp?1956)
