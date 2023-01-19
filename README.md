@@ -15,7 +15,6 @@ When selecting devices and OS versions for testing, I ask myself the following q
 - _What are the most common __screen sizes__?_
 - _Who are the leading __manufacturers__?_
 
-<img width="600" src="https://user-images.githubusercontent.com/70295997/213375022-7b88d580-791a-4088-a358-54060ff982e8.png">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/70295997/212569492-e38768cb-a9a9-4712-a123-852ddcaac930.png">
 
 Furthermore, I care for providing adequate/strategic [Test Coverage](https://github.com/lana-20/test-coverage). My strategy typically includes:
@@ -64,6 +63,8 @@ Combined, they make at least 63,000 possible browser-platform-device combination
 <img width="600" alt="Screenshot 2023-01-18 at 10 59 14 PM" src="https://user-images.githubusercontent.com/70295997/213376215-2b9b0cd6-5b11-403a-b6fe-8bc0848347a3.png">
 
 Since a website/app can’t have universal __Interoperability__ on every possible combination of device, operating system, and browser in the market, I have to settle for its watered-down counterpart, __Compatibility__.
+
+<img width="1000" src="https://user-images.githubusercontent.com/70295997/213379284-f95abab0-3097-4476-809e-0ad9aef15e1d.png">
 
 To achieve compatibility, I have to test every bit of code across browsers, platforms, and devices. Or I have to keep your developers busy with an endless barrage of cross-browser and cross-platform bugs that creep into the builds (or worse, production).
 
