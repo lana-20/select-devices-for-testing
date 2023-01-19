@@ -64,7 +64,7 @@ Combined, they make at least 63,000 possible browser-platform-device combination
 
 Since a website/app can’t have universal __Interoperability__ on every possible combination of device, operating system, and browser in the market, I have to settle for its watered-down counterpart, __Compatibility__.
 
-<img width="1000" src="https://user-images.githubusercontent.com/70295997/213379284-f95abab0-3097-4476-809e-0ad9aef15e1d.png">
+<img width="1000" src="https://user-images.githubusercontent.com/70295997/213380399-92acb7a8-f0af-4d86-8e17-d8ce2966dd59.png">
 
 To achieve compatibility, I have to test every bit of code across browsers, platforms, and devices. Or I have to keep your developers busy with an endless barrage of cross-browser and cross-platform bugs that creep into the builds (or worse, production).
 
@@ -102,5 +102,9 @@ Apple provides [iOS and iPadOS versions market shares](https://developer.apple.c
 
 ----
 
-Extra 📚: [As Mobile Screen Size Increases... So Does Activity](https://www.lukew.com/ff/entry.asp?1956)
+Extra 📚: 
+
+[As Mobile Screen Size Increases... So Does Activity](https://www.lukew.com/ff/entry.asp?1956)
+
+[Infographic: Fragmentation in OS, browsers, and devices](https://www.browserstack.com/blog/what-is-fragmentation/)
 
