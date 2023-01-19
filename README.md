@@ -15,6 +15,7 @@ When selecting devices and OS versions for testing, I ask myself the following q
 - _What are the most common __screen sizes__?_
 - _Who are the leading __manufacturers__?_
 
+<img width="600" src="https://user-images.githubusercontent.com/70295997/213375022-7b88d580-791a-4088-a358-54060ff982e8.png">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/70295997/212569492-e38768cb-a9a9-4712-a123-852ddcaac930.png">
 
 Furthermore, I care for providing adequate/strategic [Test Coverage](https://github.com/lana-20/test-coverage). My strategy typically includes:
@@ -48,10 +49,23 @@ The Dashboard also yields instructions on how to look up the Android version dis
 
 ## What are the most used mobile OS versions?
 
-As a Software Quality Engineer, I stay abreast of the various OS versions by following the tech news/blogs/conferences and communicating with IT counterparts. When conducting Mobile testing, as compared to Web, I handle Compatibility/Interoperability Testing not only among platforms/OSs but also among specific versions of these platforms/OSs (aka Cross-Version Testing). This experience/exposure is essential when addressing issues such as:
+As a Software Quality Engineer, I stay abreast of the various OS versions by following the tech news/blogs/conferences and communicating with IT counterparts. When conducting Mobile testing, as compared to Web, I handle __Compatibility/Interoperability__ Testing not only among platforms/OSs but also among specific versions of these platforms/OSs (aka Cross-Version Testing). This experience/exposure is essential when addressing issues such as:
 - [Downgrading from iOS 16.3 to 16.2 while keeping the data on iPhone 14](https://github.com/lana-20/select-devices-for-testing/blob/main/Screenshot%202023-01-17%20at%201.52.12%20PM.png) ➦ iPhone 14 series never had iOS 15.
 - [Verifying if iOS 16 can be installed on iPhone 7](https://github.com/lana-20/select-devices-for-testing/blob/main/Screenshot%202023-01-17%20at%204.47.01%20PM.png) ➦ iPhone 7 series doesn't support iOS 16.
 - [Checking which Android OS versions support Bluetooth](https://github.com/lana-20/select-devices-for-testing/blob/main/Screenshot%202023-01-17%20at%208.56.06%20PM.png) ➦ Android Jelly Bean v4.3 and above (minSDK/API Level 18+) supports Bluetooth.
+
+Consider a scenario with 4+ billion people accessing the web through combinations of:
+- 9000+ distinct devices, shipped with
+- 21 different operating systems (vendor + version), along with
+- 8 major browser engines that power hundreds of browsers.
+
+Combined, they make at least 63,000 possible browser-platform-device combinations. That’s the scale of fragmentation. _Fragmentation_ is the sum total of differences—between devices, platforms, browsers, variables like network providers and more. Fragmentation is a problem, because the differences between devices, platforms, browsers, and more cannot be abstracted by a single, universally interoperable framework.
+
+<img width="600" alt="Screenshot 2023-01-18 at 10 59 14 PM" src="https://user-images.githubusercontent.com/70295997/213376215-2b9b0cd6-5b11-403a-b6fe-8bc0848347a3.png">
+
+Since a website/app can’t have universal __Interoperability__ on every possible combination of device, operating system, and browser in the market, you have to settle for its watered-down counterpart, __Compatibility__.
+
+To achieve compatibility, you have to test every bit of code across browsers, platforms, and devices. Or you have to keep your developers busy with an endless barrage of cross-browser and cross-platform bugs that creep into the builds (or worse, production).
 
 ### Android
 
