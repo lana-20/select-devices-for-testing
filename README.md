@@ -38,6 +38,8 @@ Mobile market [today](https://lana-20.github.io/mobile-os-market-share-2022/) lo
 
 ## What are the most common screen sizes?
 
+<img src="https://user-images.githubusercontent.com/70295997/213389292-7d8ab5f4-ba0e-4a52-8a22-69e2508f5ff8.png" width=600>
+
 Google provides material.io [device metrics](https://material.io/blog/device-metrics), which includes iOS devices. It's a source of screen sizes, resolutions and other dimensions.
 
 [Android Distribution Dashboard](https://developer.android.com/about/dashboards) provides info on screen sizes and densities. 
@@ -107,4 +109,8 @@ Extra 📚:
 [As Mobile Screen Size Increases... So Does Activity](https://www.lukew.com/ff/entry.asp?1956)
 
 [Infographic: Fragmentation in OS, browsers, and devices](https://www.browserstack.com/blog/what-is-fragmentation/)
+
+[App Download Data (2023)](https://www.businessofapps.com/data/app-statistics/)
+
+[90% South East Asians connect to internet through smartphones](https://www.businesstimes.com.sg/international/asean/mobile-app-users-sea-cost-less-acquire-report)
 
