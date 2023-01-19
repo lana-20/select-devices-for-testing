@@ -60,7 +60,7 @@ Consider a scenario with 4+ billion people accessing the web through combination
 - 21 different operating systems (vendor + version), along with
 - 8 major browser engines that power hundreds of browsers.
 
-Combined, they make at least 63,000 possible browser-platform-device combinations. That’s the scale of fragmentation. [_Fragmentation_](https://github.com/lana-20/mobile-fragmentation) is the sum total of differences—between devices, platforms, browsers, variables like network providers and more. Fragmentation is a problem, because the differences between devices, platforms, browsers, and more cannot be abstracted by a single, universally interoperable framework.
+Combined, they make at least 63,000 possible browser-platform-device combinations. That’s the scale of fragmentation. [_Fragmentation_](https://github.com/lana-20/mobile-fragmentation) is the sum total of differences—between devices, platforms, browsers, variables like [network providers](https://www.t-mobile.com/news/network/t-mobile-kicks-off-2023-as-ookla-network-leader) and more. Fragmentation is a problem, because the differences between devices, platforms, browsers, and more cannot be abstracted by a single, universally interoperable framework.
 
 <img width="600" alt="Screenshot 2023-01-18 at 10 59 14 PM" src="https://user-images.githubusercontent.com/70295997/213376215-2b9b0cd6-5b11-403a-b6fe-8bc0848347a3.png">
 
