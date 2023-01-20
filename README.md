@@ -10,10 +10,10 @@ For this question, there is no right or wrong answer. It’s not accurate to say
 The answer depends on usage patterns of the app. In the volatile and fast-paced tech industry, I always stay on top of things and keep track of the statistics data, in order to keep updating the device set consistently and timely.
 
 When selecting devices and OS versions for testing, I ask myself the following questions:
-- _What are the most used mobile __OSs__?_
-- _What are the most used mobile __OS versions__?_
-- _What are the most common __screen sizes__?_
-- _Who are the leading __manufacturers__?_
+- _What are the most used mobile <code>OSs</code>?_
+- _What are the most used mobile <code>OS versions</code>?_
+- _What are the most common <code>screen sizes</code>?_
+- _Who are the leading <code>manufacturers</code>?_
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/70295997/212569492-e38768cb-a9a9-4712-a123-852ddcaac930.png">
 
