@@ -68,7 +68,7 @@ Since a website/app can’t have universal __Interoperability__ on every possibl
 
 <img width="1000" src="https://user-images.githubusercontent.com/70295997/213380399-92acb7a8-f0af-4d86-8e17-d8ce2966dd59.png">
 
-To achieve compatibility, I have to test every bit of code across browsers, platforms, and devices. Or I have to keep your developers busy with an endless barrage of cross-browser and cross-platform bugs that creep into the builds (or worse, production).
+To achieve compatibility, I have to test every bit of code across browsers, platforms, and devices. Or I have to keep my developers busy with an endless barrage of cross-browser and cross-platform bugs that creep into the builds (or worse, production).
 
 ### Android
 
@@ -86,9 +86,11 @@ Click on __Help me choose__ under a particular minSDK version to display additio
 
 <img width="700" src="https://user-images.githubusercontent.com/70295997/211924558-12935186-90f9-49c8-89d2-586b629beae1.png">
 
-‼️ The [first update to the Android distribution chart in 2023 ](https://9to5google.com/2023/01/18/android-13-device-distribution/) has been released, showing that devices running Android 13 now make up 5.2% of all devices. This is a significant increase from August's 13.5% figure for Android 12 and 12L. This suggests that Android 13 is being delivered to devices more quickly than previous versions. Notably, while Google’s chart does include details about Android 13, it doesn’t make a distinction between Android 12 and 12L. This means that Android 12 and 12L combined now account for 18.9% of the total.
+‼️ The [first update to the Android distribution chart in 2023 ](https://9to5google.com/2023/01/18/android-13-device-distribution/) has been released, showing that devices running <code>Android 13</code> now make up <code>5.2%</code> of all devices. This is a significant increase from August's 13.5% figure for Android 12 and 12L. This suggests that Android 13 is being delivered to devices more quickly than previous versions. Notably, while Google’s chart does include details about Android 13, it doesn’t make a distinction between Android 12 and 12L. This means that Android 12 and 12L combined now account for 18.9% of the total.
 
-Additionally, older versions of Android such as Oreo and Jelly Bean have seen a decrease in usage. Usage of Android Oreo has finally dropped below 10%, with similar drops in percentage down the line. Android Jelly Bean, which previously weighed in at 0.3%, is no longer listed, while KitKat has dropped from 0.9% to 0.7%.
+Additionally, older versions of Android such as Oreo and Jelly Bean have seen a decrease in usage. Usage of Android Oreo has finally dropped below 10%, with similar drops in percentage down the line. Android Jelly Bean, which previously weighed in at 0.3%, is no longer listed, while KitKat has dropped from 0.9% to 0.7%. 
+
+<code>Android 11</code> is currently the leasder with <code>24.4.%</code> of the Android OS market share.
 
 No doubt the speed of Android 13’s adoption is thanks in part to the rapid roll out of updates by phone makers including Google, Samsung, OnePlus, Sony, and more. These companies have been pushing out updates quickly to ensure that their customers can access the latest features and security enhancements offered by Android 13.
 
