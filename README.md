@@ -84,7 +84,18 @@ Click on each Android Version/API level for more information.
 
 Click on __Help me choose__ under a particular minSDK version to display additional distribution-related info:
 
-<img width="700" alt="Screenshot 2023-01-11 at 1 45 47 PM" src="https://user-images.githubusercontent.com/70295997/211924558-12935186-90f9-49c8-89d2-586b629beae1.png">
+<img width="700" src="https://user-images.githubusercontent.com/70295997/211924558-12935186-90f9-49c8-89d2-586b629beae1.png">
+
+‼️ The [first update to the Android distribution chart in 2023 ](https://9to5google.com/2023/01/18/android-13-device-distribution/) has been released, showing that devices running Android 13 now make up 5.2% of all devices. This is a significant increase from August's 13.5% figure for Android 12 and 12L. This suggests that Android 13 is being delivered to devices more quickly than previous versions. Notably, while Google’s chart does include details about Android 13, it doesn’t make a distinction between Android 12 and 12L. This means that Android 12 and 12L combined now account for 18.9% of the total.
+
+Additionally, older versions of Android such as Oreo and Jelly Bean have seen a decrease in usage. Usage of Android Oreo has finally dropped below 10%, with similar drops in percentage down the line. Android Jelly Bean, which previously weighed in at 0.3%, is no longer listed, while KitKat has dropped from 0.9% to 0.7%.
+
+No doubt the speed of Android 13’s adoption is thanks in part to the rapid roll out of updates by phone makers including Google, Samsung, OnePlus, Sony, and more. These companies have been pushing out updates quickly to ensure that their customers can access the latest features and security enhancements offered by Android 13.
+
+![image](https://user-images.githubusercontent.com/70295997/213598729-3b41f771-fb05-4b59-ad6a-683d166a77ce.png)
+<img width="700" src="https://user-images.githubusercontent.com/70295997/213598647-ac351b77-358c-46fa-899b-e8e148bfff8d.png">
+
+In the past, Google used to share data on its official website, which was based on the number of Android devices that accessed the Google Play Store during a one-week period. Now, this data can be found in Android Studio, and it is likely that the numbers are still based on the same metric.
 
 [Android Beta](https://www.google.com/android/beta) is the official link to follow for the latest info about Android Beta and its eligible devices. 
 
