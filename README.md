@@ -60,7 +60,7 @@ Consider a scenario with 4+ billion people accessing the web through combination
 - 21 different operating systems (vendor + version), along with
 - 8 major browser engines that power hundreds of browsers.
 
-Combined, they make at least 63,000 possible browser-platform-device combinations. That’s the scale of fragmentation. [_Fragmentation_](https://github.com/lana-20/mobile-fragmentation) is the sum total of differences—between devices, platforms, browsers, variables like [network providers](https://www.t-mobile.com/news/network/t-mobile-kicks-off-2023-as-ookla-network-leader) and more. Fragmentation is a problem, because the differences between devices, platforms, browsers, and more cannot be abstracted by a single, universally interoperable framework.
+Combined, they make at least 63,000 possible browser-platform-device combinations. That’s the scale of fragmentation. [_Fragmentation_](https://github.com/lana-20/mobile-fragmentation) is the sum total of differences—between devices, platforms, browsers, variables like [network providers](https://www.t-mobile.com/news/network/t-mobile-kicks-off-2023-as-ookla-network-leader), [manufacture/OEM skins](https://github.com/lana-20/android_skins) and more. Fragmentation is a problem, because the differences between devices, platforms, browsers, and more cannot be abstracted by a single, universally interoperable framework.
 
 <img width="600" alt="Screenshot 2023-01-18 at 10 59 14 PM" src="https://user-images.githubusercontent.com/70295997/213376215-2b9b0cd6-5b11-403a-b6fe-8bc0848347a3.png">
 
@@ -69,6 +69,8 @@ Since a website/app can’t have universal __Interoperability__ on every possibl
 <img width="1000" src="https://user-images.githubusercontent.com/70295997/213380399-92acb7a8-f0af-4d86-8e17-d8ce2966dd59.png">
 
 To achieve compatibility, I have to test every bit of code across browsers, platforms, and devices. Or I have to keep my developers busy with an endless barrage of cross-browser and cross-platform bugs that creep into the builds (or worse, production).
+
+Android started [Compatibility Program](https://source.android.com/docs/compatibility/overview) which provides guidelines on how to build a device compatible to a specific version.
 
 ### Android
 
