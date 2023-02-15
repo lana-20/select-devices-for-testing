@@ -64,7 +64,7 @@ Combined, they make at least 63,000 possible browser-platform-device combination
 
 <img width="600" alt="Screenshot 2023-01-18 at 10 59 14 PM" src="https://user-images.githubusercontent.com/70295997/213376215-2b9b0cd6-5b11-403a-b6fe-8bc0848347a3.png">
 
-Since a website/app can’t have universal __Interoperability__ on every possible combination of device, operating system, and browser in the market, I have to settle for its watered-down counterpart, __Compatibility__.
+Since a website/app can’t have universal __Interoperability__ on every possible combination of device, operating system, and browser in the market, I have to settle for its watered-down counterpart, __Compatibility__. While balancing the benefits and trade-offs, I achieve the desired results with the help of the Paretto 80/20 principle - when 20% of my effort and investment brings back 80% of ROI.
 
 <img width="1000" src="https://user-images.githubusercontent.com/70295997/213380399-92acb7a8-f0af-4d86-8e17-d8ce2966dd59.png">
 
@@ -76,13 +76,13 @@ Android started [Compatibility Program](https://source.android.com/docs/compatib
 
 I can find platform version information in Android Studio's __Create New Project wizard__:
 
-<img width="600" alt="Screenshot 2023-01-11 at 1 17 47 PM" src="https://user-images.githubusercontent.com/70295997/211919774-27b870f4-b945-4e7b-acbd-fc19f37ae06d.png">
+<img width="600" src="https://user-images.githubusercontent.com/70295997/211919774-27b870f4-b945-4e7b-acbd-fc19f37ae06d.png">
 
 The Minimum SDK version ([API Level](https://www.youtube.com/watch?v=lmozs_yqLY8&list=PPSV&ab_channel=BandeKhoda)) determines the lowest level of Android that my app will run on. I typically want to target as many users as possible, so I'd ideally support everyone -- with a minSDK version 1. However, that has some disadvantages, such as lack of features, and very few people use such old devices. My choice of minSDK is a tradeoff between the distribution of users I want to target and the features that my app will need.
 
 Click on each Android Version/API level for more information.
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/70295997/213084570-7215edf1-96aa-4656-8f5a-11e1595a2b14.png">
+<img width="600" src="https://user-images.githubusercontent.com/70295997/213084570-7215edf1-96aa-4656-8f5a-11e1595a2b14.png">
 
 Click on __Help me choose__ under a particular minSDK version to display additional distribution-related info:
 
