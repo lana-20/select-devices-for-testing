@@ -92,7 +92,7 @@ Click on __Help me choose__ under a particular minSDK version to display additio
 
 Additionally, older versions of Android such as Oreo and Jelly Bean have seen a decrease in usage. Usage of Android Oreo has finally dropped below 10%, with similar drops in percentage down the line. Android Jelly Bean, which previously weighed in at 0.3%, is no longer listed, while KitKat has dropped from 0.9% to 0.7%. 
 
-<code>Android 11</code>is currently the leasder with <code>24.4.%</code> of the Android OS market share.
+<code>Android 11</code>is currently the leader with <code>24.4.%</code> of the Android OS market share.
 
 No doubt the speed of Android 13’s adoption is thanks in part to the rapid roll out of updates by phone makers including Google, Samsung, OnePlus, Sony, and more. These companies have been pushing out updates quickly to ensure that their customers can access the latest features and security enhancements offered by Android 13.
 
